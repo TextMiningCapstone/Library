@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.nd4j:nd4j-bytebuddy:0.4-rc3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-bytebuddy/0.4-rc3.2/c24665b03e1a7f885de8a4d731ea39f9e2282e87/nd4j-bytebuddy-0.4-rc3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.nd4j/nd4j-bytebuddy/0.4-rc3.2/23054ce479238d999b65ba405957b2e17289ed11/nd4j-bytebuddy-0.4-rc3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
